@@ -4,7 +4,7 @@ A website to take quiz
 
 ## Technogies
 - MVC2 Model
-- Java Jsp, Servlet, Servlet as Main Controller
+- Java Jsp, Servlet, Filter as Main Controller
 - SQL Server, JDBC
 - CSS, JavaScript
 - Google API 
