@@ -15,9 +15,10 @@ A website to take quiz
 3. Search Question (admin role)
 4. Edit Question (admin role)
 5. Delete Question (admin role)
-6. View history (admin role, student role)
-7. Take quiz (student role)
-8. View result (student role)
-9. Verify registered user using email (Google)
+6. Create Question (admin role)
+7. View history (admin role, student role)
+8. Take quiz (student role)
+9. View result (student role)
+10. Verify registered user using email (Google)
 
 ### &copy; 2021 - Nguyen Thanh Tin - FPT University
