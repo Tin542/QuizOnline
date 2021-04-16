@@ -1,0 +1,17 @@
+
+.title{
+    text-align: left;
+    background-color: #FFA500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+.kq{
+	width: 350px;
+	height: auto;
+	/*background-color: green;*/
+	text-align: center;
+	border:1px solid grey;
+	border-radius: 10px;
+	margin: 0 auto;
+	background-color: #7FFFD4;
+}
